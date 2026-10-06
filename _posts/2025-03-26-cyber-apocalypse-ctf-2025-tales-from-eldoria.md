@@ -3,6 +3,9 @@ title: "Cyber Apocalypse CTF 2025: Tales from Eldoria"
 date: 2025-03-26 00:00:00 +0700
 categories: [CTF, HTB Cyber Apocalypse 2025]
 tags: [ctf, htb, forensics, reverse, writeup]
+image:
+  path: /assets/img/posts/bg.jpg
+  alt: "Cyber Apocalypse CTF 2025: Tales from Eldoria"
 ---
 
 ## Forensics
