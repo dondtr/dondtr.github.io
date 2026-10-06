@@ -4,6 +4,9 @@ date: 2026-10-06 00:00:00 +0700
 categories: [Web Security, JWT]
 tags: [jwt, web, authentication, portswigger, nodejs]
 media_subpath: /assets/img/posts/jwt-attack/
+image:
+  path: image-1.png
+  alt: Cấu trúc của JSON Web Token
 ---
 
 ![image.png](image.png)
